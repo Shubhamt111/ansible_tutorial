@@ -6,4 +6,5 @@ This is beginner friendly guide for ansible
 Steps to install ansible
 
 sudo apt install ansible
+
 create inventory file
